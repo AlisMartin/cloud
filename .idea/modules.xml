@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudbiz1/cloudbiz1.iml" filepath="$PROJECT_DIR$/cloudbiz1/cloudbiz1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudbiz2/cloudbiz2.iml" filepath="$PROJECT_DIR$/cloudbiz2/cloudbiz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudgateway/cloudgateway.iml" filepath="$PROJECT_DIR$/cloudgateway/cloudgateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudbiz1/demo.iml" filepath="$PROJECT_DIR$/cloudbiz1/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/democloud.iml" filepath="$PROJECT_DIR$/democloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register/register.iml" filepath="$PROJECT_DIR$/register/register.iml" />
+    </modules>
+  </component>
+</project>
