@@ -20,6 +20,7 @@ public class StudentController {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }*/
+        //sdat
         Student stu = new Student();
         stu.setAge("12");
         stu.setName("张三");
